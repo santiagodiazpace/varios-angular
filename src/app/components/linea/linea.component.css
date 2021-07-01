@@ -53,3 +53,11 @@ hr {
 .titulo-tabla {
     padding: 50px 0px 0px 0px;
 }
+
+.beige {
+    background: beige !important;
+}
+
+.grey {
+    background: rgb(224, 224, 222) !important;
+}
